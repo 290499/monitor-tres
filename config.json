@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1339,
+    "serverPort": 1345,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "http://cncpts.com/sitemap_products_1.xml"
+        "https://www.graffitishop.it/sitemap_https_ita_1.xml"
         
     ],
     "keywords": [
