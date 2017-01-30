@@ -1,6 +1,6 @@
 {
     "interval": 1000,
-    "serverPort": 1345,
+    "serverPort": 1320,
     "autoRetryOnCrash": true,
     "notifyWhenNewItemsFound": true,
     "notifyWhenOnKeywordMatch": true,
@@ -23,7 +23,7 @@
         "access_token_secret": "N873aZxL2gJDyhdIjsosgM2aQOBnKTJ2HTtiRQCJ28EAP"
     },
     "sites": [
-        "https://www.graffitishop.it/sitemap_https_ita_1.xml"
+        "http://tres-bien.com/sitemap.xml"
         
     ],
     "keywords": [
